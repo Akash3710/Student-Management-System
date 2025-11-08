@@ -2,8 +2,7 @@
 
 ## 🚀 Project Overview
 
-A fully functional **Student Management System** built with **Python** and **MySQL**, demonstrating complete CRUD operations and professional backend architecture. This project simulates real-world backend development with clean modular design, secure database integration, and scalable structure.
-
+This project is a Student Management System built with Python and MySQL, capable of handling all CRUD operations efficiently. It demonstrates practical backend development concepts with a clean modular design, secure database connectivity, and a structure that’s easy to maintain and expand.
 ---
 
 ## 🎯 Key Features
